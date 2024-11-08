@@ -1,2 +1,2 @@
 # Myntra-clone
-This is a clone of Myntra webpage created using html and css
+This is a clone of Myntra webpage created by using html and css.
